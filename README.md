@@ -164,5 +164,12 @@ Sudheer Kumar Kadiyala
 ✔ Modular infrastructure design implemented
 
 ---
+📌 Future Improvements
+->Remote backend with S3 + DynamoDB state locking
+->CI/CD pipeline using GitHub Actions
+->End-to-end CI/CD automation for Terraform plan and apply workflows
+->HTTPS with SSL/TLS
+->Auto scaling groups + Load balancer
+->Monitoring using CloudWatch
 
 > This project demonstrates real-world DevOps infrastructure provisioning using Terraform.
